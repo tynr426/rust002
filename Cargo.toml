@@ -1,0 +1,8 @@
+[package]
+name = "test_module"
+version = "0.1.0"
+authors = ["tynr426 <tynr426@126.com>"]
+edition = "2018"
+
+[dependencies]
+mod_learn={path="E:\\rust\\mod_learn"}
